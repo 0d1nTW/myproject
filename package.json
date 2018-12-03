@@ -1,0 +1,22 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Hapi Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0d1nTW/myproject.git"
+  },
+  "author": "0d1n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0d1nTW/myproject/issues"
+  },
+  "homepage": "https://github.com/0d1nTW/myproject#readme",
+  "dependencies": {
+    "hapi": "^17.8.1"
+  }
+}
